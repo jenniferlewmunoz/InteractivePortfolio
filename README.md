@@ -1,8 +1,8 @@
 # Interactive Portfolio
 
-## Hey there!
-thanks for visiting my interactive portfolio.
+### Hey there!
+Thanks for visiting my interactive portfolio.
 
 There's a lot more to come so stay tuned in!
 
-- Jen
+Jen <3
